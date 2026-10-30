@@ -12,6 +12,7 @@ A comprehensive DS guide for beginners and professionals reviewing core concepts
 | Section | Notebook |
 |---|---|
 | Python Fundamentals | [ds-101/python_fundamentals.ipynb](ds-101/python_fundamentals.ipynb) |
+| SQL | [ds-101/sql_fundamentals.ipynb](ds-101/sql_fundamentals.ipynb) |
 
 *More sections coming soon.*
 
